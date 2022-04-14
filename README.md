@@ -5,5 +5,5 @@ of my favorite foods (lasagna, hotcakes and pizza).
 
 The skills needed for this exercise is the basics of html.
 This basics include the correct use of the boilerplate in html
-documents, headings, tags, paragraphs, links, images
-attributes and values. 
+documents, headings, tags, paragraphs, links, images,
+attributes, and values. 
